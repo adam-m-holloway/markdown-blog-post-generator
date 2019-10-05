@@ -1,7 +1,7 @@
 const fs = require('fs');
 const inputRequired = require('../utils');
 
-const authors = JSON.parse(fs.readFileSync('./author.json'));
+const authors = JSON.parse(fs.readFileSync('./config/authors.json'));
 
 module.exports = plop => {
   plop.setGenerator('blog post', {
