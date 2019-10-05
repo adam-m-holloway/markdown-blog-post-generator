@@ -1,0 +1,8 @@
+---
+title: {{title}}
+date: "{{date}}"
+author: {{author}}{{tags}}
+draft: {{draft}}
+---
+
+Write blog post here...

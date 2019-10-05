@@ -1,0 +1,15 @@
+{
+  "name": "markdown-blog-post-generator",
+  "version": "1.0.0",
+  "description": "Markdown blog post generator",
+  "main": "index.js",
+  "repository": "https://github.com/adam-m-holloway/markdown-blog-post-generator.git",
+  "author": "Adam Holloway <adam.holloway21@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "plop --plopfile ./plopfile.js"
+  },
+  "devDependencies": {
+    "plop": "^2.4.0"
+  }
+}
