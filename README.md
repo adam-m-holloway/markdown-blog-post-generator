@@ -22,3 +22,25 @@ Run the CLI using `yarn run generate`
 ## 📝 Notes
   * Generates blogs posts into a `/posts` folder
   * Blog posts are formatted into `yyyy-mm-dd--your-post-title.md`
+
+## 🤓 Author
+
+<div>
+<img src="https://avatars2.githubusercontent.com/u/1157794?s=100" style="border-radius: 50%; margin-right: 20px">
+
+I'm [Adam Holloway], a JavaScript Software Engineer from the [UK].
+
+</div>
+
+![Follow adam-m-holloway on GitHub][github badge]
+![Follow adam_holloway on Twitter][twitter badge]
+
+<!-- images -->
+[github badge]: https://img.shields.io/github/followers/adam-m-holloway.svg?style=social&label=Follow
+[twitter badge]: https://img.shields.io/twitter/follow/adam_holloway.svg?style=social&label=Follow
+
+<!-- links -->
+[adam holloway]: https://www.linkedin.com/in/adam-holloway21/
+[twitter]: https://twitter.com/adam_holloway
+[github]: https://github.com/adam-m-holloway
+[uk]: https://www.google.com/maps/place/UK/
