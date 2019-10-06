@@ -17,14 +17,14 @@ module.exports = plop => {
       {
         type: 'list',
         name: 'author',
-        message: 'The author of blog post?',
+        message: 'Blog post author?',
         choices: authors.map(author => ({ name: author.id, value: author.id }))
       },
       // Question 3
       {
         type: 'input',
         name: 'tags',
-        message: 'tags? (separate with coma)'
+        message: 'Tags? (comma separated)'
       },
       // Question 4
       {
