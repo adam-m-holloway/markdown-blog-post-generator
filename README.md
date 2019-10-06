@@ -2,6 +2,10 @@
 
 > CLI tool using [plop.js](https://plopjs.com/) which generates a blog post in markdown based on a series of questions which you answer. Ideal for [Gatsby](https://www.gatsbyjs.org/) or other [JAMstack](https://jamstack.org/) sites, this can easily be dropped into your existing site.
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/adam-m-holloway/markdown-blog-post-generator)
+![GitHub last commit](https://img.shields.io/github/last-commit/adam-m-holloway/markdown-blog-post-generator)
+![GitHub issues](https://img.shields.io/github/issues/adam-m-holloway/markdown-blog-post-generator)
+
 ## Table of Contents
   * [🌩 Install](#-install)
   * [🛠 Configuration](#-configuration)
