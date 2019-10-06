@@ -24,16 +24,10 @@ Run the CLI using `yarn run generate`
   * Blog posts are formatted into `yyyy-mm-dd--your-post-title.md`
 
 ## 🤓 Author
-
-<div>
-<img src="https://avatars2.githubusercontent.com/u/1157794?s=100" style="border-radius: 50%; margin-right: 20px">
-
 I'm [Adam Holloway], a JavaScript Software Engineer from the [UK].
 
-</div>
-
-![Follow adam-m-holloway on GitHub][github badge]
-![Follow adam_holloway on Twitter][twitter badge]
+[![Follow adam-m-holloway on GitHub][github badge]][github]
+[![Follow adam_holloway on Twitter][twitter badge]][twitter]
 
 <!-- images -->
 [github badge]: https://img.shields.io/github/followers/adam-m-holloway.svg?style=social&label=Follow
